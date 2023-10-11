@@ -1,1 +1,2 @@
-[テキスト]（htpp://ja.wikipedia.org）
+[テキスト](https://ja.wikipedia.org)
+
