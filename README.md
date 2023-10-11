@@ -1,1 +1,1 @@
-I love Wikipedia
+[テキスト]（htpp://ja.wikipedia.org）
