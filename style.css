@@ -3,5 +3,7 @@ th{ color:white；
     background:orange;
 }
 
-table,th,td{
-    
+th,td{
+    border:1px solid blacx
+}
+table{border-collapse:collapse;}
